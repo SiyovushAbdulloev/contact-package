@@ -1,0 +1,19 @@
+{
+    "name": "siyovush/contact",
+    "description": "This will send email to admin and save contact query to database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Siyovush Abdulloev",
+            "email": "siyovush.2000.abdulloev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Siyovush\\Contact\\": "src/"
+        }
+    }
+}
