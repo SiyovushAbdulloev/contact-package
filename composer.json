@@ -15,5 +15,12 @@
         "psr-4": {
             "Siyovush\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "laravel": [
+                "Siyovush\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
